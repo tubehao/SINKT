@@ -1,7 +1,7 @@
 # SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model
 
 ## Introduction
-This repository contains the PyTorch implementation of the paper SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model. You can access the paper [here](https://dl.acm.org/doi/10.1145/3627673.3679760)
+This repository contains the PyTorch implementation of the paper SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model. You can access the paper [here](https://dl.acm.org/doi/10.1145/3627673.3679760).
 
 ## Requirements
 + numpy
